@@ -19,7 +19,7 @@ Developments I'm proud of:
 
 
 Where you can find me:
-- <a href="https://www.linkedin.com/in/javier-g-36362a93"> Linkedin </a>
+- <a href="https://www.linkedin.com/in/javier-garcia-pans"> Linkedin </a>
 - <a href="https://www.codewars.com/users/javintx"> Codewars </a> 
 
 
