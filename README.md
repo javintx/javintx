@@ -1,21 +1,20 @@
 <h1 align="center"> I'm Javier and I'm a.. </h1>
-<h3 align="center"> Java developer | I love DDD, BDD, TDD, SOLID, KISS | I like CI/CI, Scala... </h3>
+<h3 align="center"> Java Software Engineer | I practice DDD, TDD, SOLID, KISS | I love CI/CD | I learn Kotlin, Scala... </h3>
 
 
 Current goals:
 - Training my <b>Good Practices</b> skills to the max
-- Learning <b>Scala</b>
+- Learning <b>Kotlin</b>, <b>Scala</b>...
 - Get even better at <b>CI/CD</b>
 
 
 Developing projects:
-- [NILO](https://github.com/javintx/nilo) : Personal project
+- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten
 - [Companysa](https://github.com/javintx/companysa) : Another kata
 
 
 Developments I'm proud of:
-- [mower](https://github.com/javintx/mower) : DDD project
-
+- [mower](https://github.com/javintx/mower) : DDD project with CI/CD and Docker for running
 
 
 Where you can find me:
