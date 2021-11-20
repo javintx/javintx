@@ -11,6 +11,7 @@ Current goals:
 Developing projects:
 - [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten
 - [Companysa](https://github.com/javintx/companysa) : Another kata
+- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin
 
 
 Developments I'm proud of:
