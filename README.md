@@ -1,4 +1,4 @@
-w<h1 align="center"> I'm Javier and I'm a.. </h1>
+<h1 align="center"> I'm Javier and I'm a.. </h1>
 <h3 align="center"> Java Software Engineer | I practice DDD, TDD, SOLID, KISS | I love CI/CD | I learn Kotlin, Scala... </h3>
 
 
