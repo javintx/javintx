@@ -9,13 +9,15 @@ Current goals:
 
 
 Developing projects:
-- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten
-- [Companysa](https://github.com/javintx/companysa) : Another kata
-- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin
+- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. In pause.
+- [Companysa](https://github.com/javintx/companysa) : Another kata. In pause
+- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. To improve.
+- [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implemetations.
+- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. To improve.
 
 
 Developments I'm proud of:
-- [mower](https://github.com/javintx/mower) : DDD project with CI/CD and Docker for running
+- [mower](https://github.com/javintx/mower) : Project with hexagonal architecture, GitHub CI/CD and Docker for running
 
 
 Where you can find me:
@@ -23,10 +25,6 @@ Where you can find me:
 - <a href="https://www.codewars.com/users/javintx"> Codewars </a> 
 
 
-Boring statistics:
+Code statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javintx&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Javintx's GitHub stats](https://github-readme-stats.vercel.app/api?username=javintx&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=javintx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
