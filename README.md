@@ -8,21 +8,21 @@ Current goals:
 - Get even better at <b>CI/CD</b>
 
 
-Developing projects:
-- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. In pause.
-- [Companysa](https://github.com/javintx/companysa) : Another kata. In pause
-- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. To improve.
+Projects under development:
+- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. In pause <-- Old approach that need an hexagonal architecture.
+- [Companysa](https://github.com/javintx/companysa) : Another kata. In pause <-- I don't have enought time.
+- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. To improve <-- This is my first approach to Kotlin.
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
-- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. To improve.
+- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. To improve <-- This is my first approach to Kotlin.
 
 
 Developments I'm proud of:
-- [mower](https://github.com/javintx/mower) : Project with hexagonal architecture, using TDD and GitHub CI/CD and Docker for running
+- [mower](https://github.com/javintx/mower) : Project with hexagonal architecture, using TDD and GitHub CI/CD and Docker for running.
 
 
 Where you can find me:
 - <a href="https://www.linkedin.com/in/javier-garcia-pans"> Linkedin </a>
-- <a href="https://www.codewars.com/users/javintx"> Codewars </a> 
+- <a href="https://www.codewars.com/users/javintx"> Codewars </a> <-- In pause <-- I don't have enought time.
 
 
 Code statistics:
