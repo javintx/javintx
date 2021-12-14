@@ -9,7 +9,7 @@ Current goals:
 
 
 Projects under development:
-- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. In pause.
+- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. On a migration journey to hexagonal architecture.
 - [Companysa](https://github.com/javintx/companysa) : Another kata. In pause <-- I don't have enought time.
 - [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. To improve <-- This is my first approach to Kotlin.
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
