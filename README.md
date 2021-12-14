@@ -10,10 +10,10 @@ Current goals:
 
 Projects under development:
 - [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. On a migration journey to hexagonal architecture.
-- [Companysa](https://github.com/javintx/companysa) : Another kata. In pause <-- I don't have enought time.
-- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. To improve <-- This is my first approach to Kotlin.
+- [Companysa](https://github.com/javintx/companysa) : Another kata. <-- In pause
+- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. <-- To improve: This is my first approach to Kotlin.
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
-- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. To improve <-- This is my first approach to Kotlin.
+- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is my first approach to Kotlin.
 
 
 Developments I'm proud of:
@@ -22,7 +22,7 @@ Developments I'm proud of:
 
 Where you can find me:
 - <a href="https://www.linkedin.com/in/javier-garcia-pans"> Linkedin </a>
-- <a href="https://www.codewars.com/users/javintx"> Codewars </a> <-- In pause <-- I don't have enought time.
+- <a href="https://www.codewars.com/users/javintx"> Codewars </a> <-- In pause
 
 
 Code statistics:
