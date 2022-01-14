@@ -9,11 +9,11 @@ Current goals:
 
 
 Projects under development:
-- [NILO](https://github.com/javintx/nilo) : Personal project for management of a kindergarten. On a migration journey to hexagonal architecture.
-- [Companysa](https://github.com/javintx/companysa) : Another kata. <-- In pause
-- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. <-- To improve: This is my first approach to Kotlin.
+- [NILO](https://github.com/javintx/nilo) : Springboot application.
+- [Companysa](https://github.com/javintx/companysa) : Another kata. Hexagonal approach by packages.
+- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. <-- To improve: This is one of my firsts contact to Kotlin.
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
-- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is my first approach to Kotlin.
+- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is other ones of my firsts contact to Kotlin.
 
 
 Developments I'm proud of:
@@ -22,7 +22,8 @@ Developments I'm proud of:
 
 Where you can find me:
 - <a href="https://www.linkedin.com/in/javier-garcia-pans"> Linkedin </a>
-- <a href="https://www.codewars.com/users/javintx"> Codewars </a> <-- In pause
+- <a href="https://www.codewars.com/users/javintx"> Codewars </a>
+- <a href="https://www.hackerrank.com/javintx"> HackerRank </a>
 
 
 Code statistics:
