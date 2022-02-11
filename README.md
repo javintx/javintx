@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Javier and I'm a.. </h1>
-<h3 align="center"> Java Software Engineer | I practice DDD, TDD, SOLID, KISS | I love CI/CD | I learn Kotlin, Scala... </h3>
+<h3 align="center"> Java Software Engineer | I practice TDD, SOLID, KISS | I love CI/CD | I learn Kotlin, Scala... </h3>
 
 
 Current goals:
@@ -18,6 +18,7 @@ Projects under development:
 
 Developments I'm proud of:
 - [mower](https://github.com/javintx/mower) : Project with hexagonal architecture, using TDD and GitHub CI/CD and Docker for running.
+- [the-crm-service](https://github.com/javintx/the-crm-service) : Project with hexagonal architecture, with SparkJava for the REST API, using TDD and GitHub CI/CD and Docker for running.
 
 
 Where you can find me:
