@@ -11,7 +11,7 @@ Current goals:
 Projects under development:
 - [NILO](https://github.com/javintx/nilo) : Springboot application.
 - [Companysa](https://github.com/javintx/companysa) : Another kata. Hexagonal approach by packages.
-- [mower-kt](https://github.com/javintx/mower) : The same mower project, but in Kotlin. <-- To improve: This is one of my firsts contact to Kotlin.
+- [mower-kt](https://github.com/javintx/mower-kt) : The same mower project, but in Kotlin. <-- To improve: This is one of my firsts contact to Kotlin.
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
 - [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is other ones of my firsts contact to Kotlin.
 
