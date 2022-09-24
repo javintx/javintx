@@ -1,10 +1,10 @@
 <h1 align="center"> I'm Javier and I'm a.. </h1>
-<h3 align="center"> Java Software Engineer | I practice TDD, SOLID, KISS, Hexagonal architecture | I love CI/CD | I learn Kotlin... </h3>
+<h3 align="center"> Java Software Engineer | I practice TDD, SOLID, KISS, Hexagonal architecture | I love CI/CD | I'm learning Kotlin, Typescript, Python... </h3>
 
 
 Current goals:
-- Training my <b>Good Practices</b> skills to the max
-- Learning <b>Kotlin</b>...
+- Training my <b>Good Practices</b> skills
+- Learning <b>Kotlin</b>, <b>Typescript</b>, <b>Python</b>...
 - Get even better at <b>CI/CD</b>
 - Improve my knowledge on hexagonal architecture
 
