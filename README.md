@@ -12,11 +12,14 @@ Current goals:
 Some projects that I have completed in which I have practised a lot of things:
 - [mower](https://github.com/javintx/mower) : Project with hexagonal architecture, using TDD and GitHub CI/CD and Docker for running.
 - [the-crm-service](https://github.com/javintx/the-crm-service) : Project with hexagonal architecture, with SparkJava or SpringBoot for the REST API, with in-memory adapter for persistence, implemented using TDD and GitHub CI/CD, and Docker for running.
+- [console-twitter](https://github.com/javintx/console-twitter) : Project with clean architecture, without any framework, implemented using TDD and Docker for running.
 
 Some project under development where I try to test a lot of more things:
 - [NILO](https://github.com/javintx/nilo) : Springboot application.
 - [Companysa](https://github.com/javintx/companysa) : Another kata. Hexagonal approach by packages.
 - [mower-kt](https://github.com/javintx/mower-kt) : The same mower project, but in Kotlin. <-- To improve: This is one of my first contacts to Kotlin.
+
+More projects with more things:
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
 - [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is another of my first contacts with Kotlin.
 
