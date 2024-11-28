@@ -1,12 +1,12 @@
-<h1 align="center"> I'm Javier and I'm a.. </h1>
-<h3 align="center"> Java Software Engineer | I practice TDD, SOLID, KISS, Hexagonal architecture | I love CI/CD | I'm learning Kotlin, Typescript, Python... </h3>
+<h1 align="center"> I'm Javier and I'm a... </h1>
+<h3 align="center"> Java Software Engineer | I practice TDD, SOLID, KISS, Hexagonal architecture | I love CI/CD | I'm learning Kotlin, Typescript... </h3>
 
 
 Current goals:
 - Training my <b>Good Practices</b> skills
-- Learning <b>Kotlin</b>, <b>Typescript</b>, <b>Python</b>...
+- Learning <b>Kotlin</b>, <b>Typescript</b>...
 - Get even better at <b>CI/CD</b>
-- Improve my knowledge on hexagonal architecture
+- Improve my knowledge on cutting-edge technologies, like hexagonal architecture
 
 
 Some projects that I have completed in which I have practised a lot of things:
@@ -17,12 +17,11 @@ Some projects that I have completed in which I have practised a lot of things:
 Some project under development where I try to test a lot of more things:
 - [NILO](https://github.com/javintx/nilo) : Springboot application.
 - [Companysa](https://github.com/javintx/companysa) : Another kata. Hexagonal approach by packages.
-- [mower-kt](https://github.com/javintx/mower-kt) : The same mower project, but in Kotlin. <-- To improve: This is one of my first contacts to Kotlin.
+- [mower-kt](https://github.com/javintx/mower-kt) : The same mower project, but in Kotlin. <-- This is one of my first contacts to Kotlin.
 
 More projects with more things:
 - [AdventOfCode](https://github.com/javintx/AdventOfCode) : The Advent Of Code implementations.
-- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin. <-- To improve: This is another of my first contacts with Kotlin.
-
+- [AdventOfKotlinCode](https://github.com/javintx/AdventOfKotlinCode) : The Advent Of Code implementations, but in Kotlin.
 
 Where you can find me:
 - <a href="https://www.linkedin.com/in/javier-garcia-pans"> Linkedin </a>
